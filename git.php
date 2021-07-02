@@ -20,5 +20,5 @@ function move_file($sourceFile,$destPath,$destName)
 		                         if( in_array($file_ext, $ext_ok) ) 
 			                                 return true;
 	                             return false;
-	                       }ffff
+	                       }ffffkk
 ?>
